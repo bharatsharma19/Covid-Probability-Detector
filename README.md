@@ -1,6 +1,7 @@
 # Covid-Probability-Detector
 
 Extract this folder and open powershell window in that folder only.
+
 After that -> type
 python main.py
 
